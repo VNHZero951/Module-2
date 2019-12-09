@@ -1,3 +1,5 @@
+package Slide1;
+
 import java.util.Scanner;
 
 public class DaysInMonth {
